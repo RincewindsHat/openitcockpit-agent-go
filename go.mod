@@ -31,9 +31,9 @@ require (
 	github.com/spf13/viper v1.11.0
 	github.com/yusufpapurcu/wmi v1.2.2
 	go.elastic.co/ecszap v1.0.0 // indirect
-	golang.org/x/net v0.0.0-20220421235706-1d1ef9303861 // indirect
-	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150
-	golang.org/x/text v0.3.7
+	golang.org/x/net v0.23.0 // indirect
+	golang.org/x/sys v0.18.0
+	golang.org/x/text v0.14.0
 	google.golang.org/genproto v0.0.0-20220421151946-72621c1f0bd3 // indirect
 	howett.net/plist v1.0.0 // indirect
 	libvirt.org/libvirt-go v7.4.0+incompatible
